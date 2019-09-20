@@ -19,6 +19,6 @@ To classify the questions a Naive Bayes model was trained on the curated dataset
 
 Prior to running the code, it's necessary to install the NLTK library (http://www.nltk.org/install.html), and also the QC dataset (http://www.nltk.org/data.html).
 
-To run the code, simply execute 'python3 question.py' on the command line. The code will create two files in the _data_ subfolder, 1 for the first task and 2 for the second task.
+To run the code, simply execute `python3 question.py` on the command line. The code will create two files in the _data_ subfolder, 1 for the first task and 2 for the second task.
 
-To run the tests, simply execute 'python3 -m unittest test/question_test.py'.
+To run the tests, simply execute `python3 -m unittest test/question_test.py`.
